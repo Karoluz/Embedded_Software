@@ -1,0 +1,10 @@
+Program that performs a displacement or shift LED least significant to most significant.
+
+materials
+
+Keil Software or Vision4
+Scheduler PRO
+Wires
+AT89LP6440
+8 LED's
+8 resistors 330 ohms
