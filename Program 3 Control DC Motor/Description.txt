@@ -1,0 +1,24 @@
+Program that performs the rotation control DC Motor with a External Interrupt.
+
+The AT89LP3240/6440 provides 12 interrupt sources: 
+two external interrupts,
+three timer interrupts, 
+a serial port interrupt, 
+an analog comparator interrupt,
+a general-purpose interrupt, 
+a compare/capture interrupt,
+a two-wire interrupt,
+an ADC interrupt and
+an SPI interrupt.
+
+These interrupts and the system reset each have a separate program
+vector at the start of the program memory space
+
+materials
+
+Keil Software or Vision4
+Scheduler PRO
+Wires
+AT89LP6440
+8 LED's
+8 resistors 330 ohms
