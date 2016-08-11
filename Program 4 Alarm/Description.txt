@@ -1,0 +1,18 @@
+Program that performs a alarm, using the timer interrupt
+
+
+the micro provide three timers, T0, T1 and T2.
+The timers has four operation modes.
+Mode 0 Variable Widt Timer/Counter.
+Mode 1 16-Bit Auto-Reload Timer/Counter.
+Mode 2 8-Bit Auto-Reload Timer/Counter
+Mode 3 8-Bit Split Timer
+
+Materials
+
+Keil Software or Vision4
+Scheduler PRO
+Wires
+AT89LP6440
+2 push button
+2 resistor 1K ohm
