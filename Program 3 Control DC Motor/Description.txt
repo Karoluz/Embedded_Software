@@ -20,5 +20,6 @@ Keil Software or Vision4
 Scheduler PRO
 Wires
 AT89LP6440
-8 LED's
-8 resistors 330 ohms
+2 push button
+DC Motor
+H Bridge L293B
